@@ -189,6 +189,9 @@
     .userflow-cont {
         width: 75%;  
     }
+    .videowrapper {
+        width: 70%;
+    }
 
     
 }
@@ -293,6 +296,9 @@
         font-weight: 500;
         margin-top: 1rem;
     }
+    .videowrapper {
+        width: 80%;
+    }
  
 }
 
@@ -306,6 +312,9 @@
     .splash-bg-img {
         height: 800px;  
         background-image: url(foodie/Artboard\ s.png);
+    }
+    .videowrapper {
+        width: 90%;
     }
 }
  @media (max-width: 401px) {
