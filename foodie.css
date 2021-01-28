@@ -329,11 +329,12 @@ li {
 }
 
 .contact a, .resume a {
-    font-size: 0.8rem;
-    padding: 0.3rem;
+    font-size: 1rem;
+    padding: 0.5rem;
     text-decoration: none;
     background-color: cornsilk;
     border-radius: 10px;
+    margin-right: 1rem;
 }
 
 .share {
