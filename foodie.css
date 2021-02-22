@@ -257,14 +257,15 @@ li {
     text-align: center;
 }
 
-.splash-bg-img {
-    background-image: url(foodie/Artboard\ 15.png);
-    height: 2000px;
-    width: 100%;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
+.visual-img-cont {
+    margin: 0 auto;
+    text-align: center;
 }
+.visual-img {
+    width: 95%;
+    
+}
+
 
 .simply {
     display: flex;
