@@ -357,7 +357,7 @@
         height: 45vh;
         width: 100%;
         background-size: contain;
-        background-image: url(foodie/Group\ 2000-2.png), linear-gradient(#28313B,#485461);
+        background-image: url(foodie/mockup-small.png), linear-gradient(#28313B,#485461);
     }
     .process {
         font-size: 1.1rem;
