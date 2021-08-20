@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    width: 100%;
+}
+
+.rwandaful-img {
+    width: 100%;
+    display: block;
+}
+
+.rwandaful-img767 {
+    display: none;
+}
+
+
+@media (max-width: 767px) {
+    .rwandaful-img {
+        display: none;
+    }
+    
+    .rwandaful-img767 {
+        width: 100%;
+        display: block;
+    }
+    
+}
