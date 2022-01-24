@@ -5,7 +5,8 @@
 }
 
 div {
-    width: 100%;
+    width: 70%;
+    margin: auto;
 }
 
 .rwandaful-img {
@@ -18,7 +19,21 @@ div {
 }
 
 
+@media (max-width: 1920px) {
+    div {
+        width: 90%;
+        margin: auto;
+    }
+}
+
+
 @media (max-width: 767px) {
+
+    div {
+        width: 100%;
+        margin: auto;
+    }
+    
     .rwandaful-img {
         display: none;
     }
